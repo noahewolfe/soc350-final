@@ -9,6 +9,7 @@ The inputs into, and results of, my analysis can be viewed in a browser without 
 - `load_data.ipynb`: This notebook downloads information on stores in ten North Carolina counties from the OpenStreetMap. It is documented, but not crucial for understanding the quantitative analysis I perform in `analysis.ipynb`.
 - `2019-food-access-research-atlas/`: This folder contains the 2019 USDA Food Access Research Atlas, downloaded from https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/.
 - `map.pkl`: A local copy of the data downloaded from OpenStreetMap, as it takes a little while to download the data from the OpenStreetMap!
+- `final-report.pdf`: The final report! (The same as the assignment submitted to Moodle, included here to cite key references).
 - `README.md`: This file, describing the code repository!
 - `.gitignore`: A special file that tells Github (the service hosting this code repository) to ignore extraneous temporary files that Python generates while it runs. This does not affect the quantitative analysis.
 
