@@ -4,12 +4,13 @@ Hello! Welcome to the result of my SOC 350: Food and Society final project. Here
 
 # Manifest
 
-The inputs into, and results of, my analysis can be viewed in a browser without installing any code. There are five key objects in this code repository;
+The inputs into, and results of, my analysis can be viewed in a browser without installing any code. There are six files or folders in this code repository;
 - `analysis.ipynb`: **This is the crux of the project**, as it is the `Python` notebook that contains my statistical analysis and results! Click on it in the interface above (it should act like a link). If that doesn't work, navigate to this link: https://github.ncsu.edu/newolfe/soc350-final/blob/main/analysis.ipynb.
 - `load_data.ipynb`: This notebook downloads information on stores in ten North Carolina counties from the OpenStreetMap. It is documented, but not crucial for understanding the quantitative analysis I perform in `analysis.ipynb`.
 - `2019-food-access-research-atlas/`: This folder contains the 2019 USDA Food Access Research Atlas, downloaded from https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/.
 - `map.pkl`: A local copy of the data downloaded from OpenStreetMap, as it takes a little while to download the data from the OpenStreetMap!
 - `README.md`: This file, describing the code repository!
+- `.gitignore`: A special file that tells Github (the service hosting this code repository) to ignore extraneous temporary files that Python generates while it runs. This does not affect the quantitative analysis.
 
 
 # Installation and Setup
